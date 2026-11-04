@@ -1,4 +1,4 @@
-# meirim_beauty
+# beauty
 
 A new Flutter project.
 
